@@ -1,4 +1,4 @@
-```
+
 pipeline {
     agent {
 	    label 'linux'
@@ -41,4 +41,4 @@ pipeline {
 	}
     }
 }
-```
+
